@@ -7,3 +7,5 @@ climate variables from 2010 - 2022 in Miami, FL and Los Angeles, CA. The project
 The CEE 263 Project - Miami and LA Weather Data Analysis is a Jupyter notebook that contains the code for the data analysis.
 The .csv files are the data used for the analysis.
 
+### *See CEE263-Final-Report for the full report on this analysis
+### *See CEE263
